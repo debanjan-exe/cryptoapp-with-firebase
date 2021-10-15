@@ -1,10 +1,10 @@
 # Cryptogram
 
-## ![alt text](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/cryptogram1.jpg?raw=true)
+## ![mockup1](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup1.jpg?raw=true)
 
 # All Details about the cryptocurrency with price chart
 
-## ![alt text](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/cryptogram2.jpg?raw=true)
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup2.jpg?raw=true)
 
 # Getting Started with Create React App
 
