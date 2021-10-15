@@ -22,7 +22,7 @@ const SelectButton = ({ selected, children, onClick }) => {
                 // fontWeight: 600,
             },
             width: "22%",
-            //   margin: 5,
+            margin: 5,
         },
     })
 

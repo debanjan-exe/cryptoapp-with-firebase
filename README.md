@@ -1,3 +1,11 @@
+# Cryptogram
+
+## ![alt text]("./mockups/cryptogram1.jpg")
+
+# All Details about the cryptocurrency with price chart
+
+## ![alt text]("./mockups/cryptogram2.jpg")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
