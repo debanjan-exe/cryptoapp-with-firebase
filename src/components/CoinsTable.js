@@ -1,26 +1,17 @@
 import React, { useEffect, useState } from 'react'
-import { CoinList } from '../config/api'
+// import { CoinList } from '../config/api'
 import { CryptoState } from '../CryptoContext'
-import axios from "axios"
+// import axios from "axios"
 import { Container, createTheme, LinearProgress, makeStyles, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, TextField, ThemeProvider, Typography } from '@material-ui/core'
 import { useHistory } from 'react-router-dom'
 import { numberWithCommas } from "./Banner/Carousel"
 import { Pagination } from '@material-ui/lab'
 
 const CoinsTable = () => {
-    const [coins, setCoins] = useState([])
-    const [loading, setLoading] = useState(false)
-    const { currency, symbol } = CryptoState()
+    const { currency, symbol, coins, loading, fetchCoins } = CryptoState()
     const [search, setSearch] = useState("")
     const history = useHistory()
     const [page, setPage] = useState(1)
-
-    const fetchCoins = async () => {
-        setLoading(true);
-        const { data } = await axios.get(CoinList(currency));
-        setCoins(data);
-        setLoading(false);
-    }
 
     useEffect(() => {
         fetchCoins();
