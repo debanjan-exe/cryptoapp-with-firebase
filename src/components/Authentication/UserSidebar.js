@@ -90,7 +90,7 @@ export default function UserSidebar() {
             await setDoc(coinRef,
                 { coins: watchlist.filter((watch) => watch !== coin?.id) },
                 { merge: "true" }
-            ))
+            )
         } catch (error) {
             setAlert({
                 open: true,
