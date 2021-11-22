@@ -90,13 +90,7 @@ export default function UserSidebar() {
             await setDoc(coinRef,
                 { coins: watchlist.filter((watch) => watch !== coin?.id) },
                 { merge: "true" }
-            )
-
-            setAlert({
-                open: true,
-                message: `${coin.name} removed from the watchlist !`,
-                type: "success"
-            })
+            ))
         } catch (error) {
             setAlert({
                 open: true,
