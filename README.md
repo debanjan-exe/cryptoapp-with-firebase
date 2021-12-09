@@ -1,10 +1,18 @@
 # Cryptogram
-
 ## ![mockup1](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup1.jpg?raw=true)
 
-# All Details about the cryptocurrency with price chart
-
+# Mobile Responsive Too
 ## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup2.jpg?raw=true)
+
+# Easy Login and Signup using google authentication
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup3.jpg?raw=true)
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup4.jpg?raw=true)
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup7.jpg?raw=true)
+
+# Get details about your favourite crypto and add it to your watchlist
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup5.jpg?raw=true)
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup6.jpg?raw=true)
+## ![mockup2](https://github.com/debanjan-exe/cryptoapp-with-firebase/blob/master/mockups/mockup8.jpg?raw=true)
 
 # Getting Started with Create React App
 
